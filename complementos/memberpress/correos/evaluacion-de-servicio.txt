@@ -1,0 +1,67 @@
+<div id="header" style="width: 680px; padding 0; margin: 0 auto; text-align: left;">
+<h1 style="font-size: 30px; margin-bottom: 4px; text-align: center;"><a href="http://softgrade.mx/wp-content/uploads/2015/10/Logo-SoftGrade.png"><img class="alignleft size-full wp-image-43" src="http://softgrade.mx/wp-content/uploads/2015/10/Logo-SoftGrade.png" alt="Logo-SoftGrade" width="175" height="27" /></a></h1>
+</div>
+<div id="body" style="width: 600px; background: white; padding: 40px; margin: 0 auto; text-align: left;">
+<div id="receipt">Su suscripción a SoftGrade ha sido completada exitosamente.</div>
+&nbsp;
+<div>Para su referencia los detalles de su plan se mostraran enseguida:</div>
+<div></div>
+<div>
+<table style="clear: both; height: 70px;" width="555">
+<tbody>
+<tr>
+<th style="text-align: left;">Plan Seleccionado:</th>
+<td>Evaluación de servicio</td>
+</tr>
+<tr>
+<th style="text-align: left;">Precio:</th>
+<td>Gratuito por 3 días</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
+<div class="section" style="display: block; margin-bottom: 24px;">Usted puede ingresar aquí:
+{$login_page}</div>
+<div>Usando este nombre de usuario y contraseña:</div>
+<div class="section" style="display: block; margin-bottom: 24px;">
+<table class="transaction" style="clear: both;">
+<tbody>
+<tr>
+<th style="text-align: left;">Nombre de Usuario:</th>
+<td>{$username}</td>
+</tr>
+<tr>
+<th style="text-align: left;">Contraseña:</th>
+<td>***Contraseña usted configuró durante el proceso de suscripción***</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="section" style="display: block; margin-bottom: 24px;">Podrá consultar su cuenta y cambiar su contraseña aquí:
+{$account_url}</div>
+<div class="section" style="display: block; margin-bottom: 24px;"></div>
+<div class="section" style="display: block; margin-bottom: 24px;">
+<div class="section" style="display: block; margin-bottom: 24px;">Siempre a su servicio, el equipo de {$blog_name}.</div>
+<p style="text-align: left;">En caso de dudas o aclaraciones sobre tu suscripción a este u otro de nuestros servicios puedes enviar un correo a contacto@softgrade.mx.</p>
+
+</div>
+</div>
+</div>
+<!-- Google Code for Suscripci&oacute;n a evaluaci&oacute;n por 3 d&iacute;as Conversion Page -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1047759855;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "QM8UCK3qwGEQ75fO8wM";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1047759855/?label=QM8UCK3qwGEQ75fO8wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
